@@ -1,0 +1,11 @@
+.btn__button {
+    background-color: purple;
+    color: pink;
+    font-size: 1.2rem;
+    padding: 5px;
+    margin: 2px;
+}
+
+.btn__button:hover {
+    background-color: rgb(199, 34, 144);
+}

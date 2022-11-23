@@ -1,0 +1,11 @@
+.counter__button {
+    background-color: purple;
+    color: pink;
+    font-size: 1.2rem;
+    padding: 5px;
+    margin: 2px;
+}
+
+.counter__button:hover {
+    background-color: rgb(94, 9, 94);
+}

@@ -1,0 +1,28 @@
+.new-card{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    margin: 20px auto;
+    width: 50%;
+    align-items: center;
+    border: 1px solid rgb(206, 50, 180);
+    padding: 10px;
+}
+
+.new-card > div {
+    display: flex;
+    width: 60%;
+    justify-content: space-between;
+}
+
+.new-card label{
+    font-size: 18px;
+    margin: 2px;
+
+    width: 50%;
+}
+
+.new-card input{
+    border: 2px solid #ccc;
+}
+    
